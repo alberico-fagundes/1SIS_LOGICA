@@ -37,10 +37,11 @@ console.log("Olá, mundo!");
 | console | o prato onde a receita "chega pronta" |
 | sintaxe | pontuação: errar vírgula muda tudo |
 
-### Teoria formal (10 min — quadro/slide, registro no caderno)
-**Pergunta de resgate:** *"O que separava um argumento válido de uma falácia na Unidade 1?"* → um algoritmo é a "prova" do mundo da computação: cada passo precisa garantir o próximo.
+### Teoria 
 
-**Definição (Knuth):** algoritmo é um procedimento que executa, em um número finito de passos, uma sequência de instruções precisas e bem definidas para resolver um problema. Propriedades obrigatórias:
+
+
+**Definição :** algoritmo é um procedimento que executa, em um número finito de passos, uma sequência de instruções precisas e bem definidas para resolver um problema. Propriedades obrigatórias:
 1. **Finitude** — termina após um número finito de passos (um algoritmo que nunca acaba não resolve nada);
 2. **Precisão** — cada instrução é clara, sem ambiguidade (a máquina não "entende contexto");
 3. **Entrada** — zero ou mais dados iniciais;
